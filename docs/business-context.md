@@ -31,19 +31,12 @@ The stakeholders involved in the system include:
 - **Functional Analyst / QA** – Requirements definition, validation, and testing
 
 ## 5. Scope
-
-### In Scope
 - User and role management
 - Department management
 - Project and task management
 - Task progress tracking
 - Basic reporting and dashboards
 
-### Out of Scope
-- Payroll management
-- Accounting and invoicing
-- External client access
-- Advanced analytics and AI features
 
 ## 6. Constraints
 - Web-based solution accessible via browser
